@@ -1,5 +1,4 @@
-mkdir ~/.fonts
-
 cd Downloads;
 
-mv Meslo LG L Regular Complete.ttf ~/.fonts
+mv Fira Code Regular Nerd Font Complete Windows Compatible.ttf ~/.fonts
+mv Fira Code Regular Nerd Font Complete Mono Windows Compatible.ttf ~/.fonts

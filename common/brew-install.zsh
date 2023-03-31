@@ -2,7 +2,7 @@
 
 echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.zshrc
 
-exec zsh
+gnome-terminal
 
 brew install gcc make cmake neovim vim wget curl git openjdk jandedobbeleer/oh-my-posh/oh-my-posh
 
